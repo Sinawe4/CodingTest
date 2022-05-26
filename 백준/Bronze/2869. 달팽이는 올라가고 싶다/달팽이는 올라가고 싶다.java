@@ -13,7 +13,7 @@ public class Main {
         int height = Integer.parseInt(st.nextToken());
 
         int day = (height-down)/(up-down);
-        if ((height-down)% (up-down) != 0)
+        if ((height-down)% (up-down)!= 0)
             day++;
 
         System.out.println(day);
