@@ -1,4 +1,4 @@
-package main.Test.solved.class1.level1;
+package main.Test.solved.class1;
 
 import java.util.Scanner;
 
